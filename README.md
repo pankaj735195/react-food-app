@@ -1,1 +1,1 @@
-# react-foo-app
+# react-food-app
